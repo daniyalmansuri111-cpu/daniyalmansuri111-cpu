@@ -1,223 +1,245 @@
 <div align="center">
 
-<a href="https://github.com/daniyalmansuri111-cpu">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=DANIYAL%20PINJARI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Master%27s%20Student&descAlignY=58&descSize=20&color=0:0f172a,55:1e3a5f,100:7dd3fc" width="100%" alt="Daniyal Pinjari header"/>
-</a>
+<!-- HERO -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=DANIYAL%20PINJARI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Master's%20Student&descAlignY=60&descSize=21&animation=twinkling&color=0:0b1220,45:172554,100:38bdf8" width="100%" alt="Daniyal Pinjari"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Master%27s+Student+%7C+Problem+Solver;Building+clean+and+scalable+web+applications;UI%2FUX+Designer+%7C+Versatile+Builder" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=820&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Master's+Student+%7C+Problem+Solver;Building+clean+%26+scalable+applications;UI%2FUX+Designer+%7C+Versatile+Builder" alt="Typing animation"/>
 </a>
 
-<br/>
+<br>
 
 <a href="https://github.com/daniyalmansuri111-cpu">
-  <img src="https://komarev.com/ghpvc/?username=daniyalmansuri111-cpu&label=PROFILE+VIEWS&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=daniyalmansuri111-cpu&label=PROFILE%20VIEWS&style=for-the-badge&color=7dd3fc&labelColor=0b1220" alt="Profile views"/>
 </a>
 <a href="https://github.com/daniyalmansuri111-cpu?tab=followers">
-  <img src="https://img.shields.io/github/followers/daniyalmansuri111-cpu?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&labelColor=0f172a&logo=github" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/daniyalmansuri111-cpu?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github" alt="Followers"/>
 </a>
 <a href="https://github.com/daniyalmansuri111-cpu">
-  <img src="https://img.shields.io/github/stars/daniyalmansuri111-cpu?label=TOTAL%20STARS&style=for-the-badge&color=7dd3fc&labelColor=0f172a&logo=github" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/daniyalmansuri111-cpu?label=TOTAL%20STARS&style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github" alt="Stars"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<a href="#-who-i-am">👨‍💻 About</a> •
-<a href="#-featured-projects">🚀 Projects</a> •
-<a href="#-tech-stack">🛠️ Stack</a> •
-<a href="#-github-activity">📊 Stats</a> •
-<a href="#-connect-with-me">🤝 Connect</a>
+<a href="#-about-me">About</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-github-activity">GitHub</a> •
+<a href="#-connect-with-me">Connect</a>
 
 </div>
 
-👨‍💻 Who I Am
+👨‍💻 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Hello, I'm Daniyal 👋
+
+🎓 Master's Student
+💻 Java Full-Stack Developer
+🎨 UI/UX Designer
+📍 Pune, Maharashtra, India
+
+I enjoy building complete applications from frontend interfaces to backend APIs and databases. My primary development focus is the Java ecosystem, especially Spring Boot, REST APIs, Hibernate and MySQL.
+
+I also work across React, Next.js, Python, PHP and modern development tools.
+
+<br>
+
+<a href="https://github.com/daniyalmansuri111-cpu">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/daniyal-pinjari/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn"/>
+</a>
+
+</td>
+<td width="38%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
+🧩 Developer Snapshot
 
 const daniyal = {
-  title: "Master's Student • Java Full-Stack Developer",
-  stack: {
-    primary: ["Java", "Spring Boot", "Spring MVC", "Hibernate", "REST APIs"],
-    frontend: ["React.js", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-    databases: ["MySQL", "MongoDB"],
-    additional: ["PHP", "Python", "Flask", "Machine Learning", "NLP", "OpenCV"]
-  },
-  launchedProjects: [
-    "Online Exam Management System",
-    "HTML-CSS-Learning"
-  ],
-  certifications: [
-    "Website Designing using Bootstrap",
-    "ReactJS Certification",
-    "Design Thinking – RT-MSSU Mumbai",
-    "Innovative Project Design & Dev – MetaSales Technologies",
-    "Java Full Stack – Independent Study"
-  ],
+  role: "Java Full-Stack Developer",
+  education: "Master's Student",
+  primaryStack: ["Java", "Spring Boot", "React", "MySQL"],
+  frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+  backend: ["Spring Boot", "Spring MVC", "Hibernate", "REST APIs", "PHP", "Flask"],
+  databases: ["MySQL", "MongoDB"],
+  ai: ["Machine Learning", "NLP", "OpenCV"],
+  tools: ["Git", "GitHub", "Docker", "Postman", "VS Code", "Linux", "Figma"],
+  projects: ["Online Exam Management System", "HTML-CSS-Learning"],
   status: "Currently pursuing Master's studies",
   openTo: "Full-time roles and internships in Full-Stack Development"
 };
-
-<details>
-<summary><b>✨ What I bring</b></summary>
-
-<br/>
-
-🔹 End-to-end full-stack feature ownership
-
-🔹 RESTful API design and backend development
-
-🔹 Responsive UI development
-
-🔹 Cross-layer debugging
-
-🔹 Git/GitHub version control and code review
-
-🔹 Figma wireframes, prototypes and UI/UX thinking
-
-🔹 Agile sprint contribution
-
-🔹 User research and A/B testing
-
-</details>
 
 🚀 Featured Projects
 
 📝 Online Exam Management System
 
-A full-stack examination platform designed to automate exam creation, secure role-based access, timed assessments, automated grading and result processing.
-
 <div align="center">
 
 <a href="https://github.com/daniyalmansuri111-cpu/online-exam-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniyalmansuri111-cpu&repo=online-exam-management-system&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" width="100%" alt="Online Exam Management System repository card"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="View repository"/>
 </a>
+
+<img src="https://img.shields.io/badge/PHP-Backend-172554?style=for-the-badge&logo=php&logoColor=7dd3fc" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-Database-172554?style=for-the-badge&logo=mysql&logoColor=7dd3fc" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Bootstrap-UI-172554?style=for-the-badge&logo=bootstrap&logoColor=7dd3fc" alt="Bootstrap"/>
 
 </div>
 
-<details>
-<summary><b>🔍 Project details</b></summary>
-
-<br/>
+A full-stack examination platform for managing exams, users, timed assessments, grading and results.
 
 Layer
 
 Technology
 
-Frontend
+🎨 Frontend
 
 HTML5, CSS3, JavaScript, Bootstrap 5
 
-Backend
+⚙️ Backend
 
 PHP
 
-Database
+🗄️ Database
 
 MySQL
 
-Testing
+🧪 Testing
 
 Apache JMeter
 
-Highlights
+Key features: 🔐 Role-based access • 📝 Multiple question types • ⏱️ Countdown & auto-submit • 🛡️ Anti-cheating mechanisms • 📊 Automated grading • 🧪 Load testing
 
-🔐 Role-based access for Admin, Faculty and Student
+<details>
+<summary><b>✨ More about the project</b></summary>
 
-📝 MCQ, True/False and Short Answer question types
+<br>
 
-⏱️ Countdown timer and automatic submission
+Admin, Faculty and Student roles
 
-🛡️ Randomized questions, tab-switch detection and time-bound access
+MCQ, True/False and Short Answer support
 
-📊 Automated grading and result processing
+Randomized question ordering
 
-🧪 Load tested with 50 concurrent users
+Tab-switch detection
 
-<br/>
+Time-bound exam access
 
-<a href="https://github.com/daniyalmansuri111-cpu/online-exam-management-system">
-  <img src="https://img.shields.io/badge/💻%20View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="View Online Exam Management System code"/>
-</a>
+Automatic result generation
+
+Tested with 50 concurrent users
 
 </details>
 
 🎨 HTML-CSS-Learning
 
-My foundational frontend repository for learning, practicing and building with HTML and CSS.
-
 <div align="center">
 
 <a href="https://github.com/daniyalmansuri111-cpu/HTML-CSS-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniyalmansuri111-cpu&repo=HTML-CSS-Learning&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" width="100%" alt="HTML-CSS-Learning repository card"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="View repository"/>
 </a>
+<img src="https://img.shields.io/badge/HTML5-Frontend-172554?style=for-the-badge&logo=html5&logoColor=7dd3fc" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-Styling-172554?style=for-the-badge&logo=css3&logoColor=7dd3fc" alt="CSS3"/>
 
 </div>
 
-<details>
-<summary><b>🔍 Project details</b></summary>
-
-<br/>
-
-Layer
-
-Technology
-
-Frontend
-
-HTML5, CSS3
-
-<br/>
-
-<a href="https://github.com/daniyalmansuri111-cpu/HTML-CSS-Learning">
-  <img src="https://img.shields.io/badge/💻%20View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="View HTML-CSS-Learning code"/>
-</a>
-
-</details>
+My frontend learning repository for practicing HTML and CSS through hands-on projects.
 
 🛠️ Tech Stack
 
 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,javascript,sql,php&perline=8" alt="C C++ Java Python TypeScript JavaScript SQL PHP"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,javascript,php&perline=7" alt="Programming languages"/>
 </p>
 
 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" alt="HTML CSS JavaScript React Next.js Tailwind Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6" alt="Frontend technologies"/>
 </p>
 
-⚙️ Backend & Infrastructure
+⚙️ Backend & Java Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,flask,maven,tomcat&perline=6" alt="Spring Hibernate Node.js Flask Maven Tomcat"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,flask,maven,tomcat&perline=6" alt="Backend technologies"/>
 </p>
 
-🗄️ AI & Databases
+🗄️ Databases & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,opencv&perline=3" alt="MongoDB MySQL OpenCV"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,opencv&perline=3" alt="Databases and AI tools"/>
 </p>
 
-🔧 Dev Tools & Design
+🔧 Development & Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,npm,figma&perline=8" alt="Git GitHub Docker Postman VS Code Linux npm Figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,npm,figma&perline=8" alt="Development and design tools"/>
 </p>
+
+📜 Certifications
+
+Certification
+
+Organization
+
+🏅 Website Designing using Bootstrap
+
+Dr. D.Y. Patil ACS College
+
+⚛️ ReactJS Certification
+
+Certification
+
+💡 Design Thinking
+
+RT-MSSU Mumbai
+
+🚀 Innovative Project Design & Dev
+
+MetaSales Technologies
+
+☕ Java Full Stack
+
+Independent Study
 
 📊 GitHub Activity
 
 <div align="center">
 
+📈 Profile Summary
+
 <a href="https://github.com/daniyalmansuri111-cpu">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=daniyalmansuri111-cpu&show_icons=true&include_all_commits=true&count_private=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&rank_icon=github" alt="Daniyal's GitHub statistics"/>
-</a>
-<a href="https://github.com/daniyalmansuri111-cpu">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalmansuri111-cpu&layout=compact&langs_count=8&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Daniyal's top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniyalmansuri111-cpu&theme=nord_dark" width="100%" alt="GitHub profile summary"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=daniyalmansuri111-cpu&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" width="100%" alt="GitHub streak statistics"/>
+<a href="https://github.com/daniyalmansuri111-cpu">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniyalmansuri111-cpu&theme=nord_dark" height="180" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/daniyalmansuri111-cpu">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniyalmansuri111-cpu&theme=nord_dark" height="180" alt="Repositories by language"/>
+</a>
+
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=daniyalmansuri111-cpu&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" width="95%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -225,7 +247,7 @@ HTML5, CSS3
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=daniyalmansuri111-cpu&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=daniyalmansuri111-cpu&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6" width="95%" alt="GitHub trophies"/>
 
 </div>
 
@@ -233,9 +255,7 @@ HTML5, CSS3
 
 <div align="center">
 
-<a href="https://github.com/daniyalmansuri111-cpu">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyalmansuri111-cpu&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false&custom_title=Daniyal%20Pinjari%27s%20Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyalmansuri111-cpu&bg_color=0b1220&color=7dd3fc&line=38bdf8&point=ffffff&area=true&hide_border=true&custom_title=Daniyal%20Pinjari%27s%20Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -243,22 +263,18 @@ HTML5, CSS3
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/daniyal-pinjari/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/>
-</a>
 <a href="mailto:daniyalmansuri111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-daniyalmansuri111%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/daniyal-pinjari/">
+<img src="https://img.shields.io/badge/LinkedIn-Daniyal%20Pinjari-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/daniyalmansuri111-cpu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-daniyalmansuri111--cpu-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="GitHub"/>
 </a>
 
-</div>
+<br><br>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:7dd3fc,45:1e3a5f,100:0f172a" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:38bdf8,45:172554,100:0b1220" width="100%" alt="Animated footer"/>
 
 </div>
