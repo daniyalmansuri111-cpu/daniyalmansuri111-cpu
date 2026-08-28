@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7DD3FC&height=220&section=header&text=Daniyal%20Pinjari&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
 
-<img src="https://github.com/daniyalmansuri111-cpu.png" width="150" alt="Daniyal Pinjari" />
+<img src="https://wsrv.nl/?url=github.com/daniyalmansuri111-cpu.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="150" height="150" alt="Daniyal Pinjari" style="border-radius:50%;border:3px solid #7DD3FC;" />
 
-<br/><br/>
+<h2>Daniyal Pinjari</h2>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;React.js+%7C+Next.js+%7C+MongoDB+%7C+MySQL;MCA+Student+%7C+Ex+UI%2FUX+Designer;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
 
