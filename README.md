@@ -1,18 +1,4 @@
-[README(20260828-105037).md](https://github.com/user-attachments/files/31551386/README.20260828-105037.md)
-## Hi there 👋
-
-<!--
-**daniyalmansuri111-cpu/daniyalmansuri111-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DANIYAL%20PINJARI&fontSize=52&fontColor=ffffff&animation=twinkling&color=0:0f172a,100:7dd3fc" width="100%"/>
 
@@ -205,6 +191,3 @@ My foundational frontend repository for practicing and building with HTML and CS
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:7dd3fc,100:0f172a" width="100%"/>
 
 </div>
-
-- ⚡ Fun fact: ...
--->
