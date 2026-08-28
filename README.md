@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./profile-photo.png" width="190" alt="Daniyal Pinjari profile photo"/>
+<!-- Animated custom hero with profile photo -->
 
-<br><br>
+<img src="./github-hero.gif" width="100%" alt="Daniyal Pinjari animated developer banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=DANIYAL%20PINJARI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Master's%20Student&descAlignY=60&descSize=21&animation=twinkling&color=0:0b1220,45:172554,100:38bdf8" width="100%" alt="Daniyal Pinjari animated header"/>
+<br>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=820&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Master's+Student+%7C+Problem+Solver;Building+clean+%26+scalable+applications;UI%2FUX+Designer+%7C+Versatile+Builder" alt="Typing animation"/>
@@ -28,6 +28,7 @@
 <a href="#-featured-projects">🚀 Projects</a> •
 <a href="#-tech-stack">🛠️ Stack</a> •
 <a href="#-github-activity">📊 GitHub</a> •
+<a href="#-certifications">📜 Certifications</a> •
 <a href="#-connect-with-me">🤝 Connect</a>
 
 </div>
@@ -36,7 +37,7 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="65%" valign="top">
 
 Hello, I'm Daniyal 👋
 
@@ -59,9 +60,9 @@ I also work across React, Next.js, Python, PHP and modern development tools.
 </a>
 
 </td>
-<td width="32%" align="center">
+<td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
 
 </td>
 </tr>
